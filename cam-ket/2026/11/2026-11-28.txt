@@ -1,0 +1,2 @@
+ngay: 2026-11-28
+sha256: d1890e8bf2e43bd8a8e7694ee085fbe708d4d37de909acabcc41cfdb665c6bee
